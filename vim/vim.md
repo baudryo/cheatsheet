@@ -80,7 +80,7 @@ Une fois le texte selectionné on peux effectuer des opérations :
 ## Remplacement 
 
 - **rX** : Pour remplacer le caractère sour le curseur par X.
-- **R**  : Pour remplacer plus d'un caractère.  
+- **R**  : Pour remplacer plus d'un caractère.
 - **xp** : Change le caractère sous le curseur avec le suivant.
 - **Xp** : Change le caractère sous le curseur avec le précèdent.
 
@@ -162,7 +162,7 @@ L'insertion se fait toujours sur la ligne en dessous du curseur.
 - **CTRL+w h** : Fentre gauche.
 - **CTRL+w j** : Fenetre bas.
 - **CTRL+w k** : Fenetre haut.
-- **CTRL+w**   : Fenetre suivante.
+- **CTRL+w w**   : Fenetre suivante.
 
 ---
 
@@ -178,7 +178,7 @@ L'insertion se fait toujours sur la ligne en dessous du curseur.
 - **vr** : Reload ~/.vimrc.
 - **CTRL+p** : Lance FZF.
 - **CTRL+m** : Lance MarkdownPreview.
-- **SPACE+a** : Ajoute le caractère a sous le curseur.
+- **SPACE+a** : Ajoute le caractère `a` avant le curseur.
 
 ## Leader key
 
